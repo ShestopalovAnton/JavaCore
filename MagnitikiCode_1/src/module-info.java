@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module MagnitikiCode_1 {
-}
