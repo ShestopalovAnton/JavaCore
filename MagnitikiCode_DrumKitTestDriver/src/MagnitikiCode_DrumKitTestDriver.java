@@ -13,4 +13,8 @@ public class MagnitikiCode_DrumKitTestDriver {
 			d.playSnare();
 		}
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'main' of https://github.com/ShestopalovAnton/JavaCore.git
